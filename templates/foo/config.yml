@@ -1,0 +1,9 @@
+---
+name: Foo App
+description: >
+  A Foo App which does almost nothing of any practical value.
+version: 0
+category: Toy Apps
+maintainer: Christoph Champ <christoph.champ@gmail.com>
+license: Apache2
+projectURL: https://github.com/christophchamp/rancher-cattle-demo
