@@ -2,7 +2,7 @@
 name: Demo App
 description: >
   A Demo App which does almost nothing of any practical value.
-version: 0.0.1-rancher1
+version: 0
 category: Toy Apps
 maintainer: Christoph Champ <christoph.champ@gmail.com>
 license: Apache2
